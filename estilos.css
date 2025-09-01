@@ -1,0 +1,43 @@
+body{
+    background-color: darkblue;
+    margin: 10px 10px auto;
+}
+
+h2, h1{
+    text-align: center;
+}
+h5, h4, h3{
+    color: darkblue;
+}
+#hoja {
+    background-color: antiquewhite;
+    width: 21.59cm;
+	height: 27.94cm;
+    box-shadow: 1cm;
+    font-family: "Arial",Georgia, Serif;
+    font-size: 15px;
+    border: 0.2cm groove darkslategrey;
+}
+#margen { 
+    margin: 1cm 1cm 1cm 2cm;
+}
+#dp{
+    float: left;
+    align-content: left;
+    max-height: 45%;
+}
+#fp{
+    max-width: 45%;
+    float: right;
+}
+#fp img{
+    float: right;
+    max-width:  4cm ;
+    max-height: 4cm;
+}
+#da{
+    position: static;
+    float: left;
+    min-width: 95%;
+    align-content: left;
+}
